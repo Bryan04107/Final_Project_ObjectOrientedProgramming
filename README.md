@@ -13,5 +13,5 @@
 - The Save button saves the current grid state as a new index.
 
 ## Links
-- Report: https://docs.google.com/document/d/1ZbGxXPG1D_Jwuz16-Gs8F_HrpMBNvr5TkwenqfFRnzU/edit?usp=sharing
+- Report: https://docs.google.com/document/d/1ZbGxXPG1D_Jwuz16-Gs8F_HrpMBNvr5TkwenqfFRnzU/edit?usp=drivesdk
 - Demo Video: https://drive.google.com/file/d/10LdNyHZ9vFjDzC0azdaXV416KEhCpYul/view?usp=drive_link
